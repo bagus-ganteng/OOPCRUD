@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using TugasOOP.Induk;
+
+namespace TugasOOP.Anak
+
+{
+    class KaryawanHarian : Karyawan
+    {
+        public double UpahPerJam { get; set; }
+        public double JumlahJamKerja { get; set; }
+        public override double Gaji() => UpahPerJam * JumlahJamKerja;
+    }
+}

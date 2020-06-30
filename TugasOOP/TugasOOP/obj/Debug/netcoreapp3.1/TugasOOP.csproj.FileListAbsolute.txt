@@ -1,0 +1,11 @@
+D:\Data\Semester 2\Pemrograman\Praktikum 11\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.csprojAssemblyReference.cache
+D:\Data\Semester 2\Pemrograman\Praktikum 11\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.AssemblyInfoInputs.cache
+D:\Data\Semester 2\Pemrograman\Praktikum 11\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.AssemblyInfo.cs
+D:\Data\Semester 2\Pemrograman\Praktikum 11\TugasOOP\TugasOOP\bin\Debug\netcoreapp3.1\TugasOOP.exe
+D:\Data\Semester 2\Pemrograman\Praktikum 11\TugasOOP\TugasOOP\bin\Debug\netcoreapp3.1\TugasOOP.deps.json
+D:\Data\Semester 2\Pemrograman\Praktikum 11\TugasOOP\TugasOOP\bin\Debug\netcoreapp3.1\TugasOOP.runtimeconfig.json
+D:\Data\Semester 2\Pemrograman\Praktikum 11\TugasOOP\TugasOOP\bin\Debug\netcoreapp3.1\TugasOOP.runtimeconfig.dev.json
+D:\Data\Semester 2\Pemrograman\Praktikum 11\TugasOOP\TugasOOP\bin\Debug\netcoreapp3.1\TugasOOP.dll
+D:\Data\Semester 2\Pemrograman\Praktikum 11\TugasOOP\TugasOOP\bin\Debug\netcoreapp3.1\TugasOOP.pdb
+D:\Data\Semester 2\Pemrograman\Praktikum 11\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.dll
+D:\Data\Semester 2\Pemrograman\Praktikum 11\TugasOOP\TugasOOP\obj\Debug\netcoreapp3.1\TugasOOP.pdb
